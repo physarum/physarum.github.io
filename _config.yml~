@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Physarum
+tagline:             Blog
+url:                 http://physarum.github.io
 paginate:            1
 baseurl:             ""
 
@@ -31,7 +31,6 @@ gems:
   - jekyll-paginate
   - jekyll-gist
 
-pages_list:       
-  About: '/about'
-  Archive: '/archive'
-  Feed: '/atom.xml'
+pages_list:
+  Archive: '/archive/'      
+  About: '/about/'
